@@ -2773,31 +2773,6 @@ body {
 .cid-rzQ6OGRpHD .dropdown-item:hover {
   color: #ffffff !important;
 }
-.cid-rzQbuNF3WI {
-  padding-top: 30px;
-  padding-bottom: 30px;
-  background-color: #ffffff;
-}
-.cid-rzQbuNF3WI .line {
-  background-color: #232323;
-  color: #232323;
-  align: center;
-  height: 2px;
-  margin: 0 auto;
-}
-.cid-rzQbuNF3WI .section-text {
-  padding: 2rem 0;
-  color: #82786e;
-  text-align: right;
-}
-.cid-rzQbuNF3WI .inner-container {
-  margin: 0 auto;
-}
-@media (max-width: 768px) {
-  .cid-rzQbuNF3WI .inner-container {
-    width: 100% !important;
-  }
-}
 .cid-rzR7WMUThf {
   padding-top: 30px;
   padding-bottom: 30px;
